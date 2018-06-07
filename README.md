@@ -12,3 +12,5 @@ https://github.com/juanita97/assignment-1/blob/master/Graded_assignment%203.ipyn
 Graded Assignment (week 7) 4: 
 https://github.com/juanita97/assignment-1/blob/master/Graded_assignment_2.ipynb
 
+Exam python part:
+https://github.com/juanita97/assignment-1/blob/master/exam_june_7_2018-1.ipynb
